@@ -1,1 +1,1 @@
-# MindMate
+# AI Jarvis
